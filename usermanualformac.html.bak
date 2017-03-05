@@ -1,6 +1,5 @@
 <!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -140,7 +139,7 @@ OPTION+按键，输入按键右上角的字符；</li>
 
 <p class="lead">本软件在中文输入模式下，当用户对键盘上的按键进行按键操作时，本软件识别为输入笔画、部首或部件。笔画、部首或部件和键盘按键的映射关系，称为键盘布局。</p>
 <p class="lead">硬键盘的一种键盘布局如下图所示，共使用26个按键，在每个按键上，除标注有英文字母外，还标注有3种字符（即笔画、部首或部件），在中文输入模式下，用户击键、Shift+击键、Option+击键，分别可输入按键右下角、左上角、右上角的字符。</p>
-<div style="text-align: center;"><img title="layout" alt="layout" src="img/layout.png"></div></div>
+<div style="text-align: center;"><img title="layout" alt="layout" src="file:///Users/apple/Documents/WebPress/%E7%B4%A0%E6%9D%90/startbootstrap-landing-page-gh-pages/img/layout.png"></div></div>
           </div>
         </div>
       </div>

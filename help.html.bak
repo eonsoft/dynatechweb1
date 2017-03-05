@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-
 
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -109,7 +106,7 @@
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
             <p class="lead">动态输入法支持5笔画和12笔画，5笔画符合通常的定义，12笔画是对5笔画的扩充，能够减少汉字的重码，提高输入的速度，并且让动态组字更加精确和生动。</p>
-<div style="text-align: center;"><img title="12Strokes" alt="12Strokes" src="img/12StrokesShowBoard_v2.jpg"></div>
+<div style="text-align: center;"><img title="12Strokes" alt="12Strokes" src="file:///Users/apple/Documents/WebPress/%E7%B4%A0%E6%9D%90/startbootstrap-landing-page-gh-pages/img/12StrokesShowBoard_v2.jpg"></div>
           </div>
           </div>
         </div>
@@ -124,7 +121,7 @@
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
             <p class="lead">动态输入法的笔顺符合国家标准规范：<br>- 现代汉语通用字笔顺规范<br>- GF3002-1999 GB13000.1字符集汉字笔顺规范</p>
-<div style="text-align: center;"><img title="StrokeOrder" alt="StrokeOrder" src="img/StrokesOrderShowBoard_v2.jpg"></div>
+<div style="text-align: center;"><img title="StrokeOrder" alt="StrokeOrder" src="file:///Users/apple/Documents/WebPress/%E7%B4%A0%E6%9D%90/startbootstrap-landing-page-gh-pages/img/StrokesOrderShowBoard_v2.jpg"></div>
           </div>
           </div>
         </div>
