@@ -1,5 +1,9 @@
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+
 
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,6 +54,52 @@
     </ul>
     </div>
     <!-- /.intro-header -->
+    <div class="row" align="center">
+          <div class="col-lg-12">
+            
+              <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">女</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">土</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">木</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">火</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">日</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">月</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">氵</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">钅</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">口</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">心</span></a> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">亠</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">扌</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄥ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">一</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丿</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丶</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丨</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乛</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">大</span></a> </li>
+              <li> <font color="white">一</font> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">止</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄅ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">𠃌</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乙</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄋ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乚</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">亅</font></span></a> </li>
+                <li> <font color="white">一一一一一一</font> </li>
+            </ul>
+            <div>动态输入法所使用的部首非常地简单，您只要记住下面两句话：<br>
+            日月火氵<font color="silver">(水)</font>木钅<font color="silver">(金)</font>土<br>
+              大女亠<font color="silver">(头)</font>口心扌<font color="silver">(手)</font>止<br>
+              这十四个常用部首基本上就是中国人世界观的体现：<br>天有日月，地有五行（金木水火土），<br>人分男（大）女，人体有头（亠）口心手（扌）足（止）。<br>
+            此外，动态输入法还使用十二种笔画来动态地组合出任意的部首或部件，<br>
+              当然，也兼容传统的五笔画。
+            </div>
+          </div>
+        </div>
     <!-- Page Content --> <a name="about"></a>
     <!-- /.sec1 -->
     <div class="content-section-a">
@@ -75,10 +125,11 @@
             <h2 class="section-heading">下载</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">Android 1.3版：<a href="http://android.myapp.com/myapp/detail.htm?apkName=com.Eonsoft.android.softkeyboard">腾讯应用宝</a></p>
-            <p class="lead">iOS 3.0版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
+            <p class="lead">Android 版：<a href="http://android.myapp.com/myapp/detail.htm?apkName=com.Eonsoft.android.softkeyboard">腾讯应用宝</a></p>
+            <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
                 App Store</a></p>
-            <p class="lead">macOS 1.0版：本站下载</p>
+            <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">本站下载 v1.0(build 367)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="usermanualformac.html#reg">如何注册</a></p>
 <p class="lead"><br></p>
 <p class="lead">重要声明：</p>
 <p class="lead">百度手机助手、腾讯应用宝 为 Android 版授权发布渠道；</p>
