@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 
 
@@ -78,10 +80,11 @@
 <li>设置本软件为默认输入法：用户点击位于操作系统桌面右上角的输入法图标，出现下拉菜单，点击菜单中的本软件，使本软件名称前出现“V”标记，即设置本软件为默认的输入法。</li></ol>
 
           
-          <div align="center"> <img style="width: 497px; height: 432px;" src="img/addinput.png" alt="">
+          <div align="center"> <img src="img/addinput.png" alt="">
           </div>
           
-<p class="lead"><br></p><p class="lead">本软件的卸载方法为：用户手动操作把系统路径/library/Input Methods内的&nbsp; 动态输入法.app文件删除。</p> 
+<p class="lead"><br></p>
+<p class="lead">本软件的卸载方法为：用户手动操作把系统路径/library/Input Methods内的&nbsp; 动态输入法.app文件删除。</p> 
           </div>
       </div>
       <!-- /.container --> </div>
