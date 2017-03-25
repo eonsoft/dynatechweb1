@@ -67,22 +67,22 @@
             <p class="lead">安装动态输入法（以下简称本软件），有两种方法：</p>
 <ol>
 <li>用户手动操作把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内；</li>
-<li>用户运行可执行文件&nbsp; 动态输入法.pkg，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。</li></ol>
+<li>用户运行可执行文件&nbsp; 动态输入法.pkg，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。如果需要授权，请到系统偏好设置中开启：允许从以下位置下载的应用：App Store和被认可的开发者。 </li></ol>
+<p class="lead"></p>
+<div align="center"> <img src="img/authorize.jpg" alt="">
+          </div>
+<p class="lead"><br></p>
 <p class="lead">启用本软件，需要用户手动操作完成：</p>
 <ol>
 <li>添加本软件：用户打开操作系统的“系统偏好设置－键盘－输入法”，并在系统使用的输入法列表中添加本软件；</li>
 <li>设置本软件为默认输入法：用户点击位于操作系统桌面右上角的输入法图标，出现下拉菜单，点击菜单中的本软件，使本软件名称前出现“V”标记，即设置本软件为默认的输入法。</li></ol>
-<p class="lead">本软件的卸载方法为：用户手动操作把系统路径/library/Input Methods内的&nbsp; 动态输入法.app文件删除。</p>
+
           
-          <div align="center"> <img style="width: 497px; height: 432px;" class="img-responsive" src="img/addinput.png" alt="">
+          <div align="center"> <img style="width: 497px; height: 432px;" src="img/addinput.png" alt="">
           </div>
           
-          <p class="lead"><br></p>
-<p class="lead">如果需要授权，请到系统偏好设置中开启：允许从以下位置下载的应用：App Store和被认可的开发者。</p>
-          
-          <div align="center"> <img class="img-responsive" src="img/authorize.jpg" alt="如何授权"> 
+<p class="lead"><br></p><p class="lead">本软件的卸载方法为：用户手动操作把系统路径/library/Input Methods内的&nbsp; 动态输入法.app文件删除。</p> 
           </div>
-        </div>
       </div>
       <!-- /.container --> </div>
     
