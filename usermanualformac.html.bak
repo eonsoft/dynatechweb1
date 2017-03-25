@@ -69,7 +69,7 @@
             <p class="lead">安装动态输入法（以下简称本软件），有两种方法：</p>
 <ol>
 <li>用户手动操作把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内；</li>
-<li>用户运行可执行文件&nbsp; 动态输入法.pkg，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。如果需要授权，请到系统偏好设置中开启：允许从以下位置下载的应用：App Store和被认可的开发者。 </li></ol>
+<li>用户运行可执行文件&nbsp; <a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">动态输入法.pkg</a>，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。如果需要授权，请到系统偏好设置中开启：允许从以下位置下载的应用：App Store和被认可的开发者。 </li></ol>
 <p class="lead"></p>
 <div align="center"> <img src="img/authorize.jpg" alt="">
           </div>
@@ -89,7 +89,7 @@
     
     <!-- Page Content --> <a name="reg"></a>
     <!-- /.sec1 -->
-    <div class="content-section-a">
+    <div class="content-section-b">
       <div class="container">
         <div class="row">
           
@@ -102,12 +102,14 @@
 <ol>
 <li>点击任务栏动态输入法图标，从弹出菜单中选择《请注册》，然后会弹出《注册对话框》；</li>
 <li>在《注册对话框》的《机器码编辑框》中，拷贝机器码；</li>
-  <li>到淘宝店铺：<a href="https://shop478104994.taobao.com">云力动态</a>，购买 动态输入法mac版注册码；</li>
+  <li>获取动态输入法mac版注册码（具体方式有：到淘宝店铺 <a href="https://shop478104994.taobao.com">云力动态</a> 购买，或接受赠送等 ）；</li>
 <li>待收到卖家发送的注册码后，拷贝注册码，回到《注册对话框》，在《注册码编辑框》中粘贴注册码；</li>
 <li>并点击《注册按钮》；</li>
 <li>这时会弹出注册成功《提示对话框》，关闭《提示对话框》；</li>
 <li>关闭《注册对话框》；</li>
 <li>再次点击任务栏动态输入法图标，这时弹出菜单中《请注册》已变为《已注册》，即完成了注册。</li></ol>
+          
+          <p class="lead">立即到淘宝店铺 <a href="https://shop478104994.taobao.com">云力动态</a> 购买注册码</p>
           <div align="center"> <img class="img-responsive" src="img/reg.png" alt="如何注册"></div>
 <p class="lead">注：</p>
 <ol>
@@ -120,7 +122,7 @@
       </div>
       <!-- /.container --> </div>
     <a name="how2work"></a>
-    <div class="content-section-b">
+    <div class="content-section-a">
       <div class="container">
         <div class="row">
           
@@ -170,7 +172,7 @@ OPTION+按键，输入按键右上角的字符；</li>
       </div>
       <!-- /.container --> </div>
     <!-- /.sec3 --> <a name="layout"></a>
-    <div class="content-section-a">
+    <div class="content-section-b">
       <div class="container">
         
 <div class="row">
@@ -196,7 +198,7 @@ OPTION+按键，输入按键右上角的字符；</li>
       </div>
       <!-- /.container --> 
         <a name="version"></a>
-    <div class="content-section-b">
+    <div class="content-section-a">
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
