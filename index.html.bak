@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
 
 
 
@@ -125,18 +124,21 @@
             <h2 class="section-heading">下载</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">Android 版：<a href="http://android.myapp.com/myapp/detail.htm?apkName=com.Eonsoft.android.softkeyboard">腾讯应用宝</a></p>
-            <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
-                App Store</a></p>
             <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">本站下载 v1.0(build 367)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="usermanualformac.html#reg">如何注册</a></p>
+            <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
+                App Store</a></p>
+            <p class="lead">Android 版：<a href="http://android.myapp.com/myapp/detail.htm?apkName=com.Eonsoft.android.softkeyboard">腾讯应用宝</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://shouji.baidu.com/software/9060694.html">百度手机助手</a></p>
+            
+            
 <p class="lead"><br></p>
 <p class="lead">重要声明：</p>
-<p class="lead">百度手机助手、腾讯应用宝 为 Android 版授权发布渠道；</p>
-<p class="lead">iOS App Store 为 iOS 版唯一授权发布渠道；</p>
-<p class="lead">本站为 macOS 版唯一授权发布渠道（由于苹果公司的安全沙盒机制，输入法类软件无法进入 macOS App Store，但本软件经由 Apple Developer ID 认证，用户可放心使用，参见 <a href="privatepolicy.html">隐私政策</a>）。</p>
-<p class="lead">本软件没有其他发布渠道。
-            </p>
+<ul>
+<li>本站为 macOS 版唯一授权发布渠道（由于苹果公司的安全沙盒机制，输入法类软件无法进入 macOS App Store，但本软件经由 Apple Developer ID 认证，用户可放心使用，参见 <a href="privatepolicy.html">隐私政策</a>）；</li>
+<li>iOS App Store 为 iOS 版唯一授权发布渠道；</li>
+<li>腾讯应用宝、 百度手机助手为 Android 版授权发布渠道；</li>
+<li>本软件没有其他发布渠道。
+            </li></ul>
           </div>
           <div class="col-lg-5 col-sm-pull-6  col-sm-6"> <img class="img-responsive" src="img/ioskeyboard.png" alt="">
           </div>

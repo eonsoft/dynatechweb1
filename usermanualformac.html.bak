@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 
 
@@ -66,9 +64,9 @@
             <h2 class="section-heading">安装与卸载</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">安装动态输入法（以下简称本软件），有两种方法：</p>
+            <p class="lead">安装动态输入法（以下简称本软件）：</p>
 <ol>
-<li>用户手动操作把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内；</li>
+<li>系统要求：mac OS X 10.9 以上；</li>
 <li>用户运行可执行文件&nbsp; <a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">动态输入法.pkg</a>，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。如果需要授权，请到系统偏好设置中开启：允许从以下位置下载的应用：App Store和被认可的开发者。 </li></ol>
 <p class="lead"></p>
 <div align="center"> <img src="img/authorize.jpg" alt="">
@@ -97,19 +95,19 @@
             <hr class="section-heading-spacer">
             
             <p class="lead"><br></p>
-<p class="lead">未经注册的版本为试用版，您可使用试用版输入 500 个不同的汉字。当输入超过 500 个不同汉字时，动态输入法自动切换到五笔画模式，您将只能使用传统的五笔画来输入汉字，五笔画的键位不变。</p>
+<p class="lead">未经注册的版本为试用版，您可使用试用版输入 500 个不同的汉字。当输入超过 500 个不同汉字时，动态输入法自动切换到五笔画模式，您将只能使用传统的五笔画来输入汉字，五笔画的键位不变（一、丨、丿、丶、乛分别为：FJGHK）。</p>
 <p class="lead">要注册本软件，请按以下流程进行操作：</p>
 <ol>
 <li>点击任务栏动态输入法图标，从弹出菜单中选择《请注册》，然后会弹出《注册对话框》；</li>
 <li>在《注册对话框》的《机器码编辑框》中，拷贝机器码；</li>
-  <li>获取动态输入法mac版注册码（具体方式有：到淘宝店铺 <a href="https://shop478104994.taobao.com">云力动态</a> 购买，或接受赠送等 ）；</li>
-<li>待收到卖家发送的注册码后，拷贝注册码，回到《注册对话框》，在《注册码编辑框》中粘贴注册码；</li>
+  <li>向本软件作者提供机器码，获取动态输入法mac版注册码（具体方式有：到淘宝店铺 <a href="https://shop478104994.taobao.com">云力动态</a> 购买，或接受赠送等 ）；</li>
+<li>拷贝注册码，回到《注册对话框》，在《注册码编辑框》中粘贴注册码；</li>
 <li>并点击《注册按钮》；</li>
 <li>这时会弹出注册成功《提示对话框》，关闭《提示对话框》；</li>
 <li>关闭《注册对话框》；</li>
 <li>再次点击任务栏动态输入法图标，这时弹出菜单中《请注册》已变为《已注册》，即完成了注册。</li></ol>
           
-          <p class="lead">立即到淘宝店铺 <a href="https://shop478104994.taobao.com">云力动态</a> 购买注册码</p>
+          <p class="lead">购买注册码请到淘宝店铺： <a href="https://shop478104994.taobao.com">云力动态</a> </p>
           <div align="center"> <img class="img-responsive" src="img/reg.png" alt="如何注册"></div>
 <p class="lead">注：</p>
 <ol>
@@ -138,7 +136,7 @@
 <p class="lead">2. 中文输入</p>
 <p class="lead">在中文输入模式下，输入汉字的方法有三种：</p>
 <ol>
-<li>按照键盘布局所提示的笔画按键，顺次输入期望汉字的笔画或部件，从候选字列表中选择汉字输入（可使用鼠标双击候选字，或使用方向键选中候选字后按空格键或回车键，如图3）；</li>
+<li>按照键盘布局所提示的笔画按键，顺次输入期望汉字的笔画或部件，从候选字列表中选择汉字输入（可使用鼠标双击候选字，或使用方向键选中候选字后按空格键或回车键）；</li>
 <li>或持续输入笔画或部件，直到期望汉字出现在文本编辑区域，然后按空格键或回车键确认汉字；</li>
 <li>当所输入的笔画或部件，对应唯一的汉字时，本软件将自动确认汉字，完成输入。</li></ol>
 <p class="lead">本软件采用基于笔画动态组字的专利技术，在输入汉字笔画或部件的过程中，笔画或汉字将自动组合成字或部件序列。</p>
@@ -164,7 +162,7 @@ OPTION+按键，输入按键右上角的字符；</li>
 <li>在需要输入密码时，自动切换到英文输入模式。</li></ol>
 <p class="lead"><br></p>
 <p class="lead">5. 输入法参数设置</p>
-<p class="lead">在如图弹出的菜单中，鼠标点击“显示所有候选字”，可切换为“仅显示重码候选字”；点击“使用十二笔画”，可切换为“使用五笔画”。<br>
+<p class="lead">在如图弹出的菜单中，鼠标点击“显示候选字”，可切换为“不显示候选字”；点击“十二笔画”，可切换为“兼容五笔画”；点击“联想开”，可切换为“联想关”。<br>
             </p>
           <div align="center"> <img class="img-responsive" src="img/setPara.jpg" alt="设置参数"></div>
           
@@ -184,12 +182,148 @@ OPTION+按键，输入按键右上角的字符；</li>
 <p class="lead">本软件在中文输入模式下，当用户对键盘上的按键进行按键操作时，本软件识别为输入笔画、部首或部件。笔画、部首或部件和键盘按键的映射关系，称为键盘布局。</p>
 <p class="lead">硬键盘的一种键盘布局如下图所示，共使用26个按键，在每个按键上，除标注有英文字母外，还标注有3种字符（即笔画、部首或部件），在中文输入模式下，用户击键、Shift+击键、Option+击键，分别可输入按键右下角、左上角、右上角的字符。</p>
 
-<div class="lead" align="center">动态输入法所使用的部首非常地简单，您只要记住下面两句话：<br>
+<div class="row" align="center">
+          <div class="col-lg-12">
+            
+              
+<ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">女</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">土</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">木</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">火</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">日</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">月</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">氵</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">钅</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">口</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">心</span></a> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">亠</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">扌</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄥ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">一</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丿</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丶</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">丨</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乛</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">大</span></a> </li>
+              <li> <font color="white">一</font> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">止</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄅ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">𠃌</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乙</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">ㄋ</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">乚</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="red">亅</font></span></a> </li>
+                <li> <font color="white">一一一一一一</font> </li>
+            </ul>
+            
+            
+            
+          </div>
+        </div>
+            
+            <div class="lead" align="center">按下SHIFT键之后</div>            
+            <div class="row" align="center">
+          <div class="col-lg-12">
+            
+              
+<ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">贝</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">田</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">竹</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">黑</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">龺</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">舟</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">雨</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">臼</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">目</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">革</span></a> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">立</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">身</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">纟</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">虍</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">牛</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">羊</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">虫</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">马</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">𡗗</span></a> </li>
+              <li> <font color="white">一</font> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">癶</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">弓</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">羽</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">车</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">西</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">鹿</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">子</span></a> </li>
+                <li> <font color="white">一一一一一一</font> </li>
+            </ul>
+            
+            
+            
+          </div>
+        </div>
+            
+            <div class="lead" align="center">按OPTION键之后</div>            
+            <div class="row" align="center">
+          <div class="col-lg-12">
+            
+              
+<ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">貝</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">田</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">米</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">黑</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">龺</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">角</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">雨</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">金</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">耳</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">忄</span></a> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">言</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">冎</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">糹</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">疒</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">礻</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">衤</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">豸</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">馬</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">龹</span></a> </li>
+              <li> <font color="white">一</font> </li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">癶</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">弓</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">羽</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name">車</span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">西</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">鹿</font></span></a> </li>
+                <li> <a href="" class="btn btn-default btn-lg"> <span class="network-name"><font color="silver">子</font></span></a> </li>
+                <li> <font color="white">一一一一一一</font> </li>
+            </ul>
+            
+            
+            
+          </div>
+        </div>
+            <div><hr></div>     
+            <div class="lead" align="center"><p>以上共计 56 种部首或部件，其中部分部首或部件还支持多种变体，例如：火=灬，等等。所有变体如下：<br>
+             <br> <img src="img/MetaRadicals.jpeg"></p>
+              <p>动态输入法所使用的部首非常地简单，您只要记住下面两句话：<br>
             日月火氵<font color="silver">(水)</font>木钅<font color="silver">(金)</font>土<br>
               大女亠<font color="silver">(头)</font>口心扌<font color="silver">(手)</font>止<br>
               这十四个常用部首基本上就是中国人世界观的体现：<br>天有日月，地有五行（金木水火土），<br>人分男（大）女，人体有头（亠）口心手（扌）足（止）。<br>
             此外，动态输入法还使用十二种笔画来动态地组合出任意的部首或部件，<br>
-              当然，也兼容传统的五笔画。
+                当然，也兼容传统的五笔画。</p>
             </div>
 <p></p>
 <div style="text-align: center;"><img title="layout" alt="layout" src="img/layout1.jpg"></div></div>
