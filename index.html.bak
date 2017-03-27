@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-
 
 
 
@@ -194,13 +191,9 @@
     <!-- /.banner -->
     <!-- Footer -->
     <footer>
-      <div align="center">访问计数：<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3213559&c=9640990" alt="AmazingCounters.com"></a></div>
-      <br>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            
-            
             <p align="center"> 友情链接：<a href="https://www.shurujie.com">输入界</a>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rime.im">RIME</a>
             </p>
