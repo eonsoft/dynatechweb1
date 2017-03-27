@@ -151,9 +151,10 @@
 OPTION+按键，输入按键右上角的字符；</li>
 <li>半角单引号键’，用来分词；</li>
 <li>
-半角问号键?，代表任意一个不确定的笔画；</li>
+半角问号键?，代表任意一个不确定的笔画，<font color="red">使用 OPTION+? 输入中文问号？</font>；</li>
 <li>
 半角星号键*，代表任意一串不确定的笔画；</li>
+  <li>当出现联想字候选窗口时，<font color="red">只能使用数字键（1，2，……）或鼠标双击来选取，按空格键、ESC键、SHIFT+BACKSPACE键都将清除联想字</font>；</li>
 <li>SHIFT+空格，切换中英文。</li></ol>
 <p class="lead"><br></p>
 <p class="lead">4.特例</p>
@@ -320,7 +321,8 @@ OPTION+按键，输入按键右上角的字符；</li>
           </div>
         </div>
             <div class="lead">
-<hr><p>以上共计 56 种部首或部件，其中部分部首或部件还支持多种变体，例如：火=灬，等等，加上这些变体，支持的部首或部件多达 72 种。所有变体如下：</p></div>     
+<hr>
+<p>以上共计 56 种部首或部件，其中部分部首或部件还支持多种变体，例如：火=灬，等等，加上这些变体，支持的部首或部件多达 72 种。所有变体如下：</p></div>     
             <div class="lead" align="center">
              <br> <img src="img/MetaRadicals.jpeg"><p></p>
               

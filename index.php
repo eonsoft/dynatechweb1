@@ -1,5 +1,7 @@
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html>
+<?php require("simphp.php"); ?><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
 
 
 
@@ -125,7 +127,7 @@
             <h2 class="section-heading">下载</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">本站下载 v1.0(build 367)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">本站下载 v1.0(build 385)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="usermanualformac.html#reg">如何注册</a></p>
             <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
                 App Store</a></p>
@@ -193,6 +195,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
+	          <p class="hits"><?php echo $info; ?></p>
             <p align="center"> 友情链接：<a href="https://www.shurujie.com">输入界</a>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rime.im">RIME</a>
             </p>
