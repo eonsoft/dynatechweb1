@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php require("simphp.php"); ?><html lang="en"><head>
+<?php require("/data1/www/htdocs/570/dynatech/1/simphp.php"); ?><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 
 
