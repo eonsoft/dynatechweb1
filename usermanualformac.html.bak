@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
 
 
 
@@ -73,7 +72,7 @@
 <li>用户运行可执行文件&nbsp; <a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">动态输入法.pkg</a>，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。
   如果需要授权，请按下图到系统偏好设置中进行设置。 </li></ol>
 <p class="lead"></p>
-<div align="center"> <img src="img/install.png" alt="">
+<div align="center"> <img src="img/authorize.jpg" alt="">
           </div>
 <p class="lead"><br></p>
 <p class="lead">启用本软件，需要用户手动操作完成：</p>

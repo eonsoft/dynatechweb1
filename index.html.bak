@@ -1,5 +1,9 @@
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+
 
 
 
@@ -126,7 +130,7 @@
             <h2 class="section-heading">下载</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">本站下载 v1.0(build 385)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p class="lead">macOS 版：<a href="http://dynatech-softdl.stor.sinaapp.com/signed/动态输入法.pkg">本站下载 v1.0(build 385)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="usermanualformac.html#reg">如何注册</a></p>
             <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
                 App Store</a></p>
@@ -191,9 +195,13 @@
     <!-- /.banner -->
     <!-- Footer -->
     <footer>
+      <div align="center">访问计数：<a href="http://www.amazingcounters.com"><img src="http://cc.amazingcounters.com/counter.php?i=3213559&amp;c=9640990" alt="AmazingCounters.com" border="0"></a></div>
+      <br>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
+            
+            
             <p align="center"> 友情链接：<a href="https://www.shurujie.com">输入界</a>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rime.im">RIME</a>
             </p>
