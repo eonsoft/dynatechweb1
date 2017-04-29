@@ -135,7 +135,7 @@
               <a href="usermanualformac.html#reg">如何注册</a></p>
             <ol>
 <li><a href="http://dynatech-softdl.stor.sinaapp.com/signed/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">安装版下载 v1.0(build 385)</a>，经苹果开发者帐号签名认证的安装包文件，自动布署。但是由于macOS系统签名识别问题，如果安装失败，请重启电脑多试几次。<a href="usermanualformac.html">关于安装权限设置</a></li>
-<li><a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.app.zip">绿色免安装版下载 v1.0(build 385)</a>，同样经苹果开发者帐号签名认证，但需要用户手动解压.zip文件，然后把”动态输入法.app”手动放置到系统目录：/Library/Input Methods。</li></ol>
+<li><a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.app.zip">绿色版下载 v1.0(build 385)</a>，同样经苹果开发者帐号签名认证，但需要用户手动解压.zip文件，然后把”动态输入法.app”手动放置到系统目录：/Library/Input Methods。</li></ol>
             <p><font color="red">注：两个版本完全一致，都经过苹果开发者帐号签名认证，差别仅在于自动布署和手动布署，如果不放心请选择安装版多安装几次。</font></p>
 
             
