@@ -100,7 +100,7 @@
             <hr class="section-heading-spacer">
             
             <p class="lead"><br></p>
-<p class="lead">未经注册的版本为试用版，您可使用试用版输入 500 个不同的汉字。当输入超过 500 个不同汉字时，动态输入法自动切换到五笔画模式，您将只能使用传统的五笔画来输入汉字，五笔画的键位不变（一、丨、丿、丶、乛分别为：FJGHK）。</p>
+<p class="lead">未经注册的版本为试用版，您可使用试用版输入 50个不同的汉字。当输入超过 50个不同汉字时，动态输入法自动切换到五笔画模式，您将只能使用传统的五笔画来输入汉字，五笔画的键位不变（一、丨、丿、丶、乛分别为：FJGHK）。</p>
 <p class="lead">要注册本软件，请按以下流程进行操作：</p>
 <ol>
 <li>点击任务栏动态输入法图标，从弹出菜单中选择《请注册》，然后会弹出《注册对话框》；</li>
@@ -367,6 +367,7 @@ OPTION+按键，输入按键右上角的字符；</li>
               <li> <a class="btn btn-default btn-lg" href="https://weibo.com/dongtaishurufa?is_all=1">
                   <span class="network-name">微博</span></a> </li>
               <li> <a class="btn btn-default btn-lg"> <span class="network-name">QQ群10819862</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">微信16286200</span></a> </li>
               <li> <a class="btn btn-default btn-lg" href="https://tieba.baidu.com/f?kw=%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95&amp;ie=utf-8">
                   <span class="network-name">贴吧</span></a> </li>
               <li> <a class="btn btn-default btn-lg" href="mailto:dongtaishurufa@163.com">
