@@ -13,6 +13,8 @@
 
 
 
+
+
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -135,15 +137,18 @@
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
             <p class="lead">macOS 版：
-              <a href="usermanualformac.html#reg">如何注册</a></p>
+              <a href="https://pan.baidu.com/s/1i4LPe09">下载 v1.0(build 404)</a></p>
+              
             <ol>
-<li><a href="https://pan.baidu.com/s/1jI5enyA">安装版下载 v1.0(build 389)</a>，经苹果开发者帐号签名认证的安装包文件，自动布署。但是由于macOS系统签名识别问题，如果安装失败，请重启电脑多试几次。<a href="usermanualformac.html">关于安装权限设置</a></li>
-<li><a href="https://pan.baidu.com/s/1qXQq5HU">绿色版下载 v1.0(build 389)</a>，同样经苹果开发者帐号签名认证，但需要用户手动解压.zip文件，然后把”动态输入法.app”手动放置到系统目录：/Library/Input Methods。</li></ol>
-            <p><font color="red">注：两个版本完全一致，都经过苹果开发者帐号签名认证，差别仅在于自动布署和手动布署，如果不放心请选择安装版多安装几次。</font></p>
-
+              <li><a href="usermanualformac.html">关于安装权限设置</a></li>
+              <li><a href="usermanualformac.html#reg">关于如何注册</a></li>
+</ol>
             
             
-            <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&amp;ls=1&amp;mt=8#">iOS
+            <p class="lead">macOS 演示版：
+              <a href="https://itunes.apple.com/us/app/动态输入板/id1257544645?l=zh&ls=1&mt=12">MacOS App Store</a></p>
+            
+            <p class="lead">iOS 版：<a href="https://itunes.apple.com/us/app/dong-tai-shu-ru-fa/id1031921544?l=zh&ls=1&mt=8#">iOS
                 App Store</a></p>
             <p class="lead">Android 版：<a href="http://android.myapp.com/myapp/detail.htm?apkName=com.Eonsoft.android.softkeyboard">腾讯应用宝</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://shouji.baidu.com/software/9060694.html">百度手机助手</a></p>
             
@@ -176,6 +181,7 @@
             <p class="lead">2016-4：Android版上线</p>
             <p class="lead">2017-2：启动macOS版开发</p>
             <p class="lead">2017-3：macOS版上线</p>
+<p class="lead">2017-7：macOS演示版上线</p>
           </div>
           <div class="col-lg-5 col-lg-offset-2 col-sm-6"> <img class="img-responsive" src="img/dali_time.jpg" alt="">
           </div>
@@ -194,6 +200,7 @@
               <li> <a class="btn btn-default btn-lg" href="https://weibo.com/dongtaishurufa?is_all=1">
                   <span class="network-name">微博</span></a> </li>
               <li> <a class="btn btn-default btn-lg"> <span class="network-name">QQ群10819862</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">微信16286200</span></a> </li>
               <li> <a class="btn btn-default btn-lg" href="https://tieba.baidu.com/f?kw=%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95&amp;ie=utf-8">
                   <span class="network-name">贴吧</span></a> </li>
               <li> <a class="btn btn-default btn-lg" href="mailto:dongtaishurufa@163.com">

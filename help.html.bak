@@ -4,6 +4,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 
 
+
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -94,7 +95,7 @@
 <li>*通配：当汉字笔画较多时，可使用*通配符号代替除首尾笔画之外的中间的任意一段连续笔画，来减少按键次数。例如，“算”可以省略为“*廾”。</li>
 <li>？通配：当不确定某个笔画对应哪个笔画按键时，可使用？通配符号代替1个未知的笔画。</li></ol>
 <p class="lead">&nbsp;<br>5 手气不错<br>如果您对汉字笔画及其常用程度较为熟悉，可在凭经验判断所输入笔划已经足够确定目标汉字时，直接按回车或空格确认输入。例如，输入“丨”再按回车或空格可输入“着”，输入“厶冂”按回车或空格可输入“能”。<br>&nbsp;<br>6 词语预测<br>本输入法将根据插入点之前的汉字预测下一个将要输入的汉字。<br>&nbsp;<br>7 分词<br>使用“分‘词”键，能够快捷地输入词组，词组中每个汉字，只需要输入前几个笔画，并使用分词符号'分隔，本输入法即可寻找到匹配的词组。例如，输入 阝'扌'亻，即可匹配 阿拉伯，输入 爫'忄，即可匹配 爱情，等等。</p></div>
-          <div class="col-lg-5 col-sm-pull-6  col-sm-6"> <img class="img-responsive" src="img/macbookkeyboard.jpg" alt="">
+          <div class="col-lg-5 col-sm-pull-6  col-sm-6"> <img class="img-responsive" src="img/StroComp4iOS.gif" alt="">
           </div>
         </div>
       </div>

@@ -4,6 +4,8 @@
 
 
 
+
+
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,7 +71,7 @@
             <p class="lead">安装动态输入法（以下简称本软件）：</p>
 <ol>
 <li>系统要求：mac OS X 10.9 以上；</li>
-<li>用户运行可执行文件&nbsp; <a href="http://dynatech-softdl.stor.sinaapp.com/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">动态输入法.pkg</a>，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。
+<li>用户运行可执行文件&nbsp; <a href="http://dynatech-softdl.stor.sinaapp.com/signed/%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95.pkg">动态输入法.pkg</a>，由该可执行文件自动把&nbsp; 动态输入法.app放置到系统路径/library/Input Methods内。
   如果需要授权，请按下图到系统偏好设置中进行设置。 </li></ol>
 <p class="lead"></p>
 <div align="center"> <img src="img/authorize.jpg" alt="">
@@ -110,7 +112,7 @@
 <li>关闭《注册对话框》；</li>
 <li>再次点击任务栏动态输入法图标，这时弹出菜单中《请注册》已变为《已注册》，即完成了注册。</li></ol>
           
-          <p class="lead">购买注册码请到淘宝店铺： <a href="https://shop478104994.taobao.com">云力动态</a> </p>
+          <p class="lead">购买注册码请到淘宝店铺： <a href="https://shop478104994.taobao.com">云力动态</a>&nbsp;&nbsp; 或加微信16286200咨询作者</p>
           <div align="center"> <img class="img-responsive" src="img/reg.png" alt="如何注册"></div>
 <p class="lead">注：</p>
 <ol>

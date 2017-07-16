@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+<!DOCTYPE html><html lang="en"><head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -56,12 +55,28 @@
 <h2 class="section-heading">隐私政策</h2>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <p class="lead">动态输入法 非常重视你的隐私。因此我们制定了涵盖如何收集、使用以及存储你的信息的隐私政策。请花些时间熟悉我们针对用户隐私的做法，如有任何疑问，请联系我们。<br>&nbsp;<br><u><b>1. 我们收集哪些个人信息</b></u><br>&nbsp;<br>动态输入法 不收集任何涉及个人隐私的信息，例如：户名、账号、密码、位置等。<br>&nbsp;<br>当你使用 动态输入法 输入汉字时，动态输入法 仅统计字频和打字速度，其目的是为了动态改善用户体验。<br>&nbsp;<br><u><b>2. 向第三方披露</b></u><br>&nbsp;<br>动态输入法 在任何时候都不对任何第三方批露上述所收集的统计信息。&nbsp; <br>&nbsp;<br><u><b>3. 个人信息的保护</b></u><br>&nbsp;<br>动态输入法 非常重视你的个人信息的安全，不对任何第三方应用程序开放，也不向任何网络服务器上传任何数据。&nbsp; <br><br>当你卸载 动态输入法 软件，上述所收集的统计信息也一并删除。&nbsp; <br>&nbsp;<br><u><b>4. 第三方网站和服务</b></u><br>&nbsp;<br>动态输入法 软件的网站、产品、应用软件和服务中可能含有第三方网站、产品和服务的链接。我们的产品和服务也可能使用或提供来自第三方的产品或服务 — 例如，技术支持网站。第三方收集的、其中可能含有位置数据或联系方式等的信息，须遵守第三方关于隐私权的规定。我们希望你能了解这些第三方的隐私权规定。&nbsp; <br>&nbsp;<br><u><b>5. 隐私问题</b></u><br>&nbsp;<br>如果你对 动态输入法 的隐私政策或数据处理有任何问题或疑问，或者想就可能违反当地隐私权法律的情况进行投诉，请联系我们。&nbsp; <br>&nbsp;<br><u><b>6. 其他</b></u><br>&nbsp;<br>动态输入法 可随时对其隐私政策加以更新。如果我们对隐私政策作出重大变更，我们将在本网站上发布通告和经更新的隐私政策。</p>
+            <p class="lead">动态输入法(macOS版)是由苹果认可的开发者(即Apple Developer ID)开发并发布。<br><br>作为一款输入法软件，保护用户的隐私非常重要，为此我们制定了涵盖如何收集、使用以及存储您的信息的隐私政策，如有任何疑问，请访问我们的网站(https://dynatech.applinzi.com)以联系我们。<br>&nbsp;<br>1. 收集何种信息<br>&nbsp;<br>动态输入法 不收集任何涉及个人隐私的信息，例如：用户名、账号、密码、位置等。<br>&nbsp;<br>当您使用 动态输入法 输入汉字时，动态输入法 仅统计动态字频，其目的是为了改善您的输入体验。<br><br>2. 个人信息的保护<br>&nbsp;<br>动态输入法 非常重视你的个人信息的安全，不对任何第三方应用程序开放，也不向任何网络服务器上传任何数据。&nbsp; <br>&nbsp;<br>3. 向第三方披露<br>&nbsp;<br>动态输入法 在任何时候都不对任何第三方批露上述所收集的统计信息。&nbsp; <br>&nbsp;<br>4. 第三方网站和服务<br>&nbsp;<br>动态输入法 软件含有导向在线帮助的链接(https://dynatech.applinzi.com)，除此以外不涉及任何第三方网站、产品和服务的链接。&nbsp; <br>&nbsp;<br>5. 其他<br>&nbsp;<br>如果我们对隐私政策作出更新，我们将在网站(https://dynatech.applinzi.com)上发布通告和经更新的隐私政策。</p>
           </div>
         </div>
       </div>
       <!-- /.container --> </div>
-    
+    <!-- Page Content --> <a name="privatepolicy"></a>
+    <!-- /.sec1 -->
+    <div class="content-section-b">
+      <div class="container">
+        <div class="row">
+          <div>
+            
+<h2 class="section-heading">用户许可协议</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">一切本软件用户（以下简称用户）均被视为已经仔细阅读本协议并完全同意，均被视为自愿接受本协议的约束。<br><br>1 本软件（即动态输入法macOS版）为共享软件，用户可以免费下载、任意复制和传播。<br><br>2 本软件未经注册时，您可使用全部功能（部首笔画动态组字）输入最多500个不同汉字，超过500字后您仍可继续无限制输入汉字但功能受限（只有五笔画动态组字）；本软件注册后，将永久解除所有限制。<br><br>3 用户均被视为已经仔细阅读本软件的操作说明，并按照操作说明的方法操作本软件。<br><br>4 用户使用本软件产生的一切文本内容均由该用户提供，本软件不承担任何法律责任。<br><br>5 用户未按照本软件操作说明的方法操作本软件而导致的任何意外、疏忽、合约毁坏、诽谤、版权或其他知识产权侵犯及其所造成的任何损失，本软件不承担任何法律责任。<br><br>6 对于因不可抗力或因黑客攻击、通讯线路中断等本软件不能控制的原因，导致用户不能正常使用本软件，本软件不承担任何法律责任。<br><br>7 本协议未涉及的问题请参见国家有关法律法规，当本协议与国家有关法律法规冲突时，以国家法律法规为准。<br><br>8 本软件相关协议版权及其修改权、更新权和最终解释权均属本软件作者所有。</p>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> </div> 
+  
+  
     <!-- /.content-section-a --> <a name="contact"></a>
     <div class="banner">
       <div class="container">
